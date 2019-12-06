@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+
+int *ptr;
+int a;
+
+ptr = &a;
+
+ptintf("Address = %p\n", ptr);
+
+return 0;
+
+}
